@@ -1,0 +1,1 @@
+curl -o txt%1.jpg https://public---domain.imgix.net/ARCHITECTS%%20DON'T%%20TECHNICALLY%%20BUILD%%20ANYTHING/%2
